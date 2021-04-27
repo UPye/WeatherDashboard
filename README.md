@@ -6,8 +6,6 @@
 * [Link to site](#link-to-site)
 * [Link to github](#link-to-repo)
 * [Screenshot](#screenshot-of-landing-page)
-* [Credits](#credits)
-* [Some help from the web](#some-help-from-the-web)
 * [License](#license)
 
 ## Overview
@@ -21,10 +19,7 @@ https://upye.github.io/WeatherDashboard/
 ## Link to repo
 https://github.com/UPye/WeatherDashboard
 ## Screenshot of landing page
-![alt text]
-## Credits
-I want to thank Carlos and Anthony for assisting me over the hurdles of this project. Without Carlos hammering out a final few things I was missing to make this application work, really was helpful.
-## Some help from the web
+![alt text]https://github.com/UPye/WeatherDashboard/blob/main/assets/img/WeatherDashboard.png
 ## License
 Copyright (c) 2012-2020 Scott Chacon and others
 Permission is hereby granted, free of charge, to any person obtaining
