@@ -1,6 +1,0 @@
-
-
-
-
-
-var formSubmitHandler = function(event)
