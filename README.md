@@ -19,7 +19,7 @@ https://upye.github.io/WeatherDashboard/
 ## Link to repo
 https://github.com/UPye/WeatherDashboard
 ## Screenshot of landing page
-![alt text]https://github.com/UPye/WeatherDashboard/blob/main/assets/img/WeatherDashboard.png
+![alt text](https://github.com/UPye/WeatherDashboard/blob/main/assets/img/WeatherDashboard.png)
 ## License
 Copyright (c) 2012-2020 Scott Chacon and others
 Permission is hereby granted, free of charge, to any person obtaining
