@@ -129,3 +129,8 @@ box-shadow: 0px 0px 8px black;
 #hr-hide {
     display: none;
 }
+
+.justify-content-center {
+    margin: 0 auto;
+    width: 80%;
+}
