@@ -1,0 +1,20 @@
+{
+  "name": "WeatherDashboard",
+  "version": "1.0.0",
+  "description": "* [Overview](#overview) * [Html changes](#html-changes) * [CSS changes](#css-changes) * [Link to site](#link-to-site) * [Link to github](#link-to-repo) * [Screenshot](#screenshot-of-landing-page) * [License](#license)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UPye/WeatherDashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UPye/WeatherDashboard/issues"
+  },
+  "homepage": "https://github.com/UPye/WeatherDashboard#readme"
+}
